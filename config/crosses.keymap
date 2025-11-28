@@ -23,7 +23,7 @@
         default_layer {
             display-name = "Base";
             bindings = <
-&kp Q        &as W LS(W)  &as E LS(E)     &as R LS(R)  &as T LS(T)  &as Y LS(Y)  &as U LS(U)  &as I LS(I)  &as O LS(O)  &as P LS(P)
+&as Q LS(Q)  &as W LS(W)  &as E LS(E)     &as R LS(R)  &as T LS(T)  &as Y LS(Y)  &as U LS(U)  &as I LS(I)  &as O LS(O)  &as P LS(P)
 &as A LS(A)  &as S LS(S)  &as D LS(D)     &as F LS(F)  &as G LS(G)  &as H LS(H)  &as J LS(J)  &as K LS(K)  &as L LS(L)  &as SQT LS(SQT)
 &as Z LS(Z)  &as X LS(X)  &as C LS(C)     &as V LS(V)  &as B LS(B)  &as N LS(N)  &as M LS(M)  &kp RCTRL    &kp RALT     &as DOT LS(DOT)
                           &lt 3 LEFT_GUI  &mo 1        &kp SPACE    &kp RET      &mo 2        &kp BSPC
